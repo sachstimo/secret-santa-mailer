@@ -79,3 +79,9 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ---
 
 Enjoy organizing your Secret Santa event and have a Merry Christmas! 🎅🎁
+
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+## Credits
+This project was inspired by [Secret Santa Mailer](https://github.com/jmarkowski/secret-santa-mailer.git) by [jmarkowski](https://github.com/jmarkowski). Special thanks for providing a great foundation for this tool!
